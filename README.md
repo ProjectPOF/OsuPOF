@@ -1,7 +1,3 @@
-For Now Nothing There Im lazy to Upload
---------------------------
-bla bla bla
-
 ## There will be These apps
 
 * Osu Relax hack
