@@ -1,4 +1,7 @@
-## There will be dll for use
+## There will be cheat
+-----
+
+# Features
 
 * Osu Relax hack
 * Osu Flashlight/Hidden Fixer
@@ -7,7 +10,7 @@
 * Osu AimAssist
 * Osu Spinner
 
-## ToDo
+# ToDo
 
 * Osu Replay
 * Osu aimbot
