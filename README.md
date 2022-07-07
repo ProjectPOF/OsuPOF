@@ -1,4 +1,4 @@
-## There will be These apps
+## There will be dll for use
 
 * Osu Relax hack
 * Osu Flashlight/Hidden Fixer
