@@ -1,5 +1,5 @@
 ## There will be cheat
-- [discord server](https://discord.gg/BTRKUVgJ)
+- [join discord server](https://discord.gg/BTRKUVgJ)
 -----
 
 # Features
