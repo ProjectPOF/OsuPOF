@@ -4,7 +4,6 @@
 -----
 
 # Features
-
 [X] Relax hack
 [X] Spinner
 [X] Timewarp
