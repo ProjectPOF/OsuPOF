@@ -8,5 +8,5 @@
 - [X] Spinner
 - [X] Timewarp
 - [X] Aimbot
-- [] Mania
-- [] AimAssist
+- [] Mania -> not done
+- [] AimAssist -> not done
