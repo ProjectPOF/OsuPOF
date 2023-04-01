@@ -4,9 +4,9 @@
 -----
 
 # Features
-[X] Relax hack
-[X] Spinner
-[X] Timewarp
-[X] Aimbot
-[] Mania
-[] AimAssist
+- [X] Relax hack
+- [X] Spinner
+- [X] Timewarp
+- [X] Aimbot
+- [] Mania
+- [] AimAssist
