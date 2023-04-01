@@ -1,4 +1,5 @@
 ## There will be cheat
+- premium released at discord server
 - [click to join discord server](https://discord.gg/qfH3rMQCk4)
 -----
 
