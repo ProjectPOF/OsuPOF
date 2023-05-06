@@ -1,5 +1,4 @@
 ## Cheat Released
-- free for 3 days at discord ( relax version )
 - premium released at discord server
 - [click to join discord server](https://discord.gg/qfH3rMQCk4)
 -----
